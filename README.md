@@ -36,9 +36,9 @@ I didn't think i'd get stuck at phase 2 (**language model**) i used an openAI AP
   
 ... I never expected it to be that stupid.***
 
-![image](https://github.com/user-attachments/assets/0201e8d0-485b-4884-ba7b-197ca5b19577)  
-![image](https://github.com/user-attachments/assets/dc2a721d-dfb7-48d7-a52e-99cd69592da4)
-![image](https://github.com/user-attachments/assets/06d59e31-3d7b-451b-b944-b29540dfb267)
+![image](https://github.com/user-attachments/assets/7c49e245-4b7a-497d-8f33-2b88a8b39318)
+![image](https://github.com/user-attachments/assets/93a02d26-7cc6-47e5-9e4b-18fa56834c13)
+![image](https://github.com/user-attachments/assets/26c2207b-009d-499b-bff4-587aafff327c)
 it gave me much more nonsense (and sometimes so ridiculous it was funny) answers than what is portrayed in these screenshots ... too bad I didn't take pictures of them back then
 
 
@@ -49,4 +49,4 @@ and I was a bit sad about that...
 
 **So** to make myself a liittle bit better, I made this my wallpaper and put a ChatGPT shortcut next to it ... and called it a day ...
 
-![image](https://github.com/user-attachments/assets/c8346725-8f5e-4190-b788-968ed47aa27d)
+![image](https://github.com/user-attachments/assets/c2b4125c-3095-4189-bf46-68466a0b512c)
